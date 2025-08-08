@@ -8,5 +8,4 @@ __DIR__=$(
 
 cd ${__DIR__}
 
-docker exec -it rhel-dev bash
-
+docker exec -it swoole-install-dev sh
